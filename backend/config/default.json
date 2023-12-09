@@ -1,0 +1,4 @@
+{
+    "mongoURI":
+      "mongodb+srv://esehi:reactdev12@@mernatoz-9kdpd.mongodb.net/test?retryWrites=true&w=majority"
+  }

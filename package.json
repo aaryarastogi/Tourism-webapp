@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@mui/icons-material": "^5.14.9",
+    "@mui/lab": "^5.0.0-alpha.145",
+    "@mui/x-date-pickers": "^6.15.0",
+    "@mui/x-date-pickers-pro": "^6.15.0",
+    "date-fns": "^2.30.0",
+    "react-router-dom": "^6.15.0",
+    "react-select": "^5.7.5"
+  }
+}
